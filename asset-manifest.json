@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beta-labs/static/css/main.8f429946.css",
+    "main.js": "/beta-labs/static/js/main.d7c66ce6.js",
+    "static/js/787.1e56cea6.chunk.js": "/beta-labs/static/js/787.1e56cea6.chunk.js",
+    "index.html": "/beta-labs/index.html",
+    "main.8f429946.css.map": "/beta-labs/static/css/main.8f429946.css.map",
+    "main.d7c66ce6.js.map": "/beta-labs/static/js/main.d7c66ce6.js.map",
+    "787.1e56cea6.chunk.js.map": "/beta-labs/static/js/787.1e56cea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f429946.css",
+    "static/js/main.d7c66ce6.js"
+  ]
+}
