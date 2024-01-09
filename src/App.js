@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <img src={'/illustration.png'} className='main-image' alt='this is a big'/>
+    <img src={'../public/illustration.png'} className='main-image' alt='this is a big'/>
     <LoginForm></LoginForm>
     </div>
   );
