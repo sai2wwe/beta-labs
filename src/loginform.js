@@ -2,7 +2,7 @@ function LoginForm(){
 
     return(
         <div className='Login-container'>
-        <img src='/small.png' alt='this is small' className="small image"/>
+        <img src={'../public/small.png'} alt='this is small' className="small image"/>
         <h2 className="heading">Login to Your Account</h2>
         <p className="tagline">See what is going on with your business</p>
         <button className="btn btn-secondary w-100 mt-4 p-2">Continue with Google</button>
